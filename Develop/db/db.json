@@ -1,18 +1,14 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Welcome to Note Taker!",
+      "text": "Test, Test",
+      "id": "0"
     },
     {
-		"title": "Test Title 2",
-		"text": "Fail Fail"
-	},
-	{
-		"title": "Test Tile 3",
-		"text": "True True"
-	},
-	{
-		"title": "Test Title 4",
-		"text": "Fail Fail"
-	}
-]
+      "title": "Deleting Notes",
+      "text": "Test, Test",
+      "id": "1"
+    }
+  ]
+}
